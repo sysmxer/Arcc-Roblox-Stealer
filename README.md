@@ -12,6 +12,6 @@ EDIT:
 UPDATEE!
 Now way faster, the last one was in python, this one is is c#.
 Instructions:
-Open, wait a little bit until it prints ,, Username? ,, then u just choose one and done, after this it asks for username.
+Open, wait a little bit until it prints ,, Hey! ,, then u just wait 3 seconds, after this it asks for username of victim. 
 
 Bye, happy beaming!
